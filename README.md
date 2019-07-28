@@ -1,2 +1,2 @@
-# Calculadora
-Calculadora - Senai
+# Calculadora-Tunada
+Calculadora Java
